@@ -1,3 +1,9 @@
+.container {
+    margin: 0 auto;
+    width: 1000px;
+    margin-top: 50px;
+}
+
 .clearfix::after {
     content: "";
     clear: both;
@@ -12,10 +18,8 @@ body {
 h1 {
     background-color: rgb(76, 158, 76);
     height: 75px;
-    color: white;
     padding: 10px;
 
-   
 }
 
 aside {
@@ -23,7 +27,7 @@ aside {
     background-color: #046fa1;
     padding: 10px;
     margin: 20px;
-    width: 300px;
+    width: 20%;
     height: 400px;
 }
 
@@ -32,7 +36,7 @@ main {
     background-color: rgb(204, 81, 99);
     padding: 10px;
     margin: 20px;
-    width: 700px;
+    width: 40%;
     height: 400px;
 }
 
@@ -43,11 +47,11 @@ img {
     margin-top: 20px;
 }
 
-/* footer {
+footer {
     background-color: grey;
     color: white;
     height: 50px;
-} */
+} 
 
 html {
     background: url("https://cdn.pixabay.com/photo/2017/08/06/22/59/abstract-2597264_960_720.jpg") no-repeat center center fixed;
