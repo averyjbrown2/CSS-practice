@@ -1,0 +1,57 @@
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+body {
+    color: white;
+}
+
+h1 {
+    background-color: rgb(76, 158, 76);
+    height: 75px;
+    color: white;
+    padding: 10px;
+
+   
+}
+
+aside {
+    float:left;
+    background-color: #046fa1;
+    padding: 10px;
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+}
+
+main {
+    float:left;
+    background-color: rgb(204, 81, 99);
+    padding: 10px;
+    margin: 20px;
+    width: 500px;
+    height: 300px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+/* footer {
+    background-color: grey;
+    color: white;
+    height: 50px;
+} */
+
+html {
+    background: url("https://cdn.pixabay.com/photo/2017/08/06/22/59/abstract-2597264_960_720.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
