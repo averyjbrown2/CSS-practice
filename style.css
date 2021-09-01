@@ -1,14 +1,24 @@
-.container {
-    margin: 0 auto;
-    width: 1000px;
-    margin-top: 50px;
-}
+* {
+    box-sizing: border-box;
+  }
 
-.clearfix::after {
+/* .container {
+    margin: 0 auto;
+    width: 1200px;
+    margin-top: 50px;
+} */
+
+.row::after {
     content: "";
     clear: both;
     display: table;
   }
+
+  /* [class*="col-"] {
+    float: left;
+    padding: 20px;
+    margin: 10px;
+  } */
 
 body {
     color: white;
@@ -17,27 +27,27 @@ body {
 
 h1 {
     background-color: rgb(76, 158, 76);
-    height: 75px;
-    padding: 10px;
-
+    height: 15%;
+    padding: 1%;
+    width: 100%;
 }
 
 aside {
     float:left;
     background-color: #046fa1;
     padding: 10px;
-    margin: 20px;
     width: 20%;
-    height: 400px;
+    height: 70%;
 }
 
 main {
     float:left;
     background-color: rgb(204, 81, 99);
     padding: 10px;
-    margin: 20px;
-    width: 40%;
-    height: 400px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 50%;
+    height: 70%;
 }
 
 img {
@@ -50,7 +60,7 @@ img {
 footer {
     background-color: grey;
     color: white;
-    height: 50px;
+    height: 15%;
 } 
 
 html {
@@ -60,3 +70,9 @@ html {
     -o-background-size: cover;
     background-size: cover;
 }
+
+    @media only screen and (max-width: 768px) {
+        h1, aside, main {
+          width: 100%;
+          margin:0;
+    }}
