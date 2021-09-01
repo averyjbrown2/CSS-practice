@@ -38,6 +38,8 @@ aside {
     padding: 10px;
     width: 20%;
     height: 70%;
+    border:2px solid white;
+    border-radius: 5px;
 }
 
 main {
@@ -48,6 +50,8 @@ main {
     margin-right: 5%;
     width: 50%;
     height: 70%;
+    border:2px solid white;
+    border-radius: 5px;
 }
 
 img {
