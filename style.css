@@ -38,6 +38,7 @@ aside {
     padding: 10px;
     width: 20%;
     height: 70%;
+    box-shadow: 10px 10px 5px white;
     border:2px solid white;
     border-radius: 5px;
 }
@@ -52,6 +53,8 @@ main {
     height: 70%;
     border:2px solid white;
     border-radius: 5px;
+    box-shadow: 10px 10px 5px white;
+
 }
 
 img {
