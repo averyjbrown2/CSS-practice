@@ -1,10 +1,9 @@
-# CSS-practice
 
 
  ![License](https://img.shields.io/badge/license-MIT-red)
 
 
-# note-taker  
+# CSS-practice
 
 
 ### Description  
