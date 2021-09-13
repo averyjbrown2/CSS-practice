@@ -50,10 +50,10 @@ averybgcoding@gmail.com
 
 ### Images  
 #### >1024px View
-![README VS Code](./assets/image1.png)      
+![README VS Code](./assets/image1.png) &nbsp;        
 
 #### <1024px View
-![README Preview](./assets/image2.png)  
+![README Preview](./assets/image2.png) &nbsp;    
 
-#### <Small Screen View
-![README Preview](./assets/image3.png)
+#### Small Screen View
+![README Preview](./assets/image3.png) &nbsp;  
