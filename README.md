@@ -8,7 +8,7 @@
 
 
 ### Description  
-This application was developed to demonstrate the basics of CSS, without the use of a CSS library. 
+This application was developed to demonstrate the basics of CSS, without the use of a CSS library. Within the style.css, there are examples of common usages of floats, background images, div styling, box-sizing, box-shadows, padding, margins, and responsive web design/medi queries. This application utilizes these features in order to display the ease of which developers can create their own visually appealing webpages utilizing basic CSS.
 
 
 ### Table of Contents  
