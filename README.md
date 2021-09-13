@@ -49,5 +49,11 @@ averybgcoding@gmail.com
 
 
 ### Images  
-![README VS Code](./assets/image1.png)    
-![README Preview](./assets/image2.png)
+#### >1024px View
+![README VS Code](./assets/image1.png)      
+
+#### <1024px View
+![README Preview](./assets/image2.png)  
+
+#### <Small Screen View
+![README Preview](./assets/image3.png)
